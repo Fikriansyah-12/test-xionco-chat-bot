@@ -22,7 +22,8 @@ pnpm install
 # atau
 npm install
 
-OPENAI_API_KEY=ISI_API_KEY_DEEPSEEK
+## Tambahkan ENV di file 
+OPENAI_API_KEY=sk-9aa680d3a6a44006a5ba5f4fd24fbbe1
 OPENAI_BASE_URL=https://api.deepseek.com/v1
 OPENAI_MODEL=deepseek-chat
 
